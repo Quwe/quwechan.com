@@ -1,3 +1,3 @@
 function recommend(){
-	document.write("**こちらもどうぞ");
+	document.write("<b>こちらもどうぞ</b>");
 }
